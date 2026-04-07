@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 个性化词语 - by @Claire
+# 小魔女的自定义短语和词语
+---
+name: claire_custom
+version: "2026.04.07"
+sort: by_weight
+...
+
